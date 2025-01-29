@@ -11,7 +11,7 @@ import Checkbox from '../../ui/Checkbox';
 
 import { useMoveBack } from '../../hooks/useMoveBack';
 import { useBooking } from '../bookings/useBooking';
-import { useCheckin } from './useCheckIn';
+import { useCheckin } from './useCheckin';
 import { useEffect, useState } from 'react';
 import { formatCurrency } from '../../utils/helpers';
 import { useSettings } from '../settings/useSettings';
